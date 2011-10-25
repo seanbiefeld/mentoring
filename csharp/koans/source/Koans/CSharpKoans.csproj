@@ -59,6 +59,7 @@
     <Compile Include="AboutModifiers.cs" />
     <Compile Include="AboutNumbers.cs" />
     <Compile Include="AboutOperators.cs" />
+    <Compile Include="AboutPolymorphism.cs" />
     <Compile Include="AboutStatements.cs" />
     <Compile Include="AboutStructs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
