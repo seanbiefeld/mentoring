@@ -51,10 +51,16 @@
   <ItemGroup>
     <Compile Include="AboutArrays.cs" />
     <Compile Include="AboutByValueAndByReference.cs" />
+    <Compile Include="AboutClasses.cs" />
+    <Compile Include="AboutEncapsulation.cs" />
+    <Compile Include="AboutEnums.cs" />
+    <Compile Include="AboutInheritance.cs" />
+    <Compile Include="AboutInterfaces.cs" />
     <Compile Include="AboutModifiers.cs" />
     <Compile Include="AboutNumbers.cs" />
     <Compile Include="AboutOperators.cs" />
     <Compile Include="AboutStatements.cs" />
+    <Compile Include="AboutStructs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AboutStrings.cs" />
     <Compile Include="Extensions\AssertionExtensions.cs" />
